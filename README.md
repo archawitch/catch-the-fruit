@@ -1,4 +1,4 @@
-# Catch the fruit
+# Catch the fruits
 
 A mini Java game where players need to catch falling fruits. This game utilizes Java AWT and OOP concepts.
 
